@@ -74,8 +74,8 @@ h1 span {
 
 .portrait {
   display: block;
-  width: 230px;
-  height: 292px;
+  width: 260px;
+  height: 330px;
   object-fit: cover;
   background: #f5f5f5;
 }
@@ -84,8 +84,8 @@ h1 span {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 28px;
-  width: 230px;
+  gap: 30px;
+  width: 265px;
   margin: 20px auto 0;
 }
 
